@@ -15,6 +15,7 @@ public class DotCom {
 		int guess = Integer.parseInt(userguess);
 		for (int cell : locations) {
 			if (guess == cell) {
+				
 				numOfHits++;
 				result = "hit";
 				// return result;

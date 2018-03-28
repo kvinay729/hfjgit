@@ -2,7 +2,7 @@ package com.hfj;
 
 public class DotComTestDrive {
 
-	public static void main(String args[])
+	//public static void main(String args[])
 	{
 		int numOfGuess=0;
 		DotCom d = new DotCom();
